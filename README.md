@@ -19,7 +19,7 @@ any level and to gunzip the files inplace
 
 optional arguments:
   -h, --help            show this help message and exit
-  --source_dir source-directory/Images
+  --source_dir source-directory/Data-directory
                         Source directory to parse
   --dryrun true/false   True - to display all gzipped files /#/ False - to gunzip all files in place
 ````
@@ -38,4 +38,9 @@ optional arguments:
   Extract all gzipped files
   ````
   python run.py --source_dir "E:\parse-folder\Data-directory" --dryrun true
+  ````
+  ----
+  To recursively parse and convert files to gzip in a particular directory
+  ````
+  python convert_to_gzip.py
   ````
