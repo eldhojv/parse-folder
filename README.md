@@ -44,3 +44,5 @@ optional arguments:
   ````
   python convert_to_gzip.py
   ````
+  ----
+  List of files that doesn't have .gz extension but are gzip files can be found in the file "gzip-files.txt"
