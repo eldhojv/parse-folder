@@ -37,7 +37,7 @@ optional arguments:
   ````
   Extract all gzipped files
   ````
-  python run.py --source_dir "E:\parse-folder\Data-directory" --dryrun true
+  python run.py --source_dir "E:\parse-folder\Data-directory" --dryrun false
   ````
   ----
   To recursively parse and convert files to gzip in a particular directory
