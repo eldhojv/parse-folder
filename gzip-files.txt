@@ -1,0 +1,9 @@
+-----List of the files that doesn't have .gz extension but are gzip files -----
+
+Data-directory\Annotate\Cat-Annotate\cat_annotate_image_3.pdf
+Data-directory\Annotate\Cat-Annotate\cat_annotate_image_4.txt
+Data-directory\Annotate\Dog-Annotate\dog_annoatate_image_3.css
+Data-directory\Labels\XYCoordinates\Dog-XY\dog_imageLabel_1.txt
+Data-directory\Labels\XYCoordinates\Dog-XY\dog_imageLabel_2.txt
+Data-directory\Labels\XYCoordinates\Dog-XY\dog_imageLabel_3.txt
+Data-directory\Labels\XYCoordinates\Dog-XY\dog_imageLabel_4.txt
